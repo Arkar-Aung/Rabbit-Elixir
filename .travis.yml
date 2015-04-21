@@ -3,7 +3,7 @@ otp_release:
   - 17.0
 
 elixir:
-  - 1.0
+  - 1.0.3
 
 before_script:
   - mix test  
