@@ -3,7 +3,7 @@ defmodule Rabbit.Mixfile do
 
   def project do
     [app: :rabbitElixir,
-     version: "1.0.0",
+     version: "1.0.1",
      elixir: "~> 1.0",
      package: package,
      description: description,
@@ -14,7 +14,7 @@ defmodule Rabbit.Mixfile do
   #
   # Type `mix help compile.app` for more information
   def application do
-    [applications: [:logger]]
+    [applications: [:logger, :jsx]]
   end
 
   defp description do
@@ -42,6 +42,6 @@ defmodule Rabbit.Mixfile do
   #
   # Type `mix help deps` for more examples and options
   defp deps do
-    []
+    [{:exjsx, "~> 3.1.0"}]
   end
 end

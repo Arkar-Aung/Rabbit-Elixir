@@ -1,0 +1,8 @@
+/var/www/Rabbit-Elixir/_build/test/lib/jsx/ebin/jsx.beam
+/var/www/Rabbit-Elixir/_build/test/lib/jsx/ebin/jsx_config.beam
+/var/www/Rabbit-Elixir/_build/test/lib/jsx/ebin/jsx_decoder.beam
+/var/www/Rabbit-Elixir/_build/test/lib/jsx/ebin/jsx_encoder.beam
+/var/www/Rabbit-Elixir/_build/test/lib/jsx/ebin/jsx_parser.beam
+/var/www/Rabbit-Elixir/_build/test/lib/jsx/ebin/jsx_to_json.beam
+/var/www/Rabbit-Elixir/_build/test/lib/jsx/ebin/jsx_to_term.beam
+/var/www/Rabbit-Elixir/_build/test/lib/jsx/ebin/jsx_verify.beam
